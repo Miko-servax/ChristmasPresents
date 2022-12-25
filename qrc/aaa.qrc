@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file>cap.png</file>
+    <file>snow2.png</file>
+    <file>snowman2.png</file>
+    <file>W5.ttc</file>
+    <file>frame.png</file>
+    <file>snowman.png</file>
+    <file>snowman.jpg</file>
+    <file>R-C.jpg</file>
+  </qresource>
+</RCC>
